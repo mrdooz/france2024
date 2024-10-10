@@ -34,9 +34,9 @@ Since we are arriving late in the evening to Paris our only goal is to get to ou
 
 Good Morning Paris!!! Not such a bad place to celebrate your birthday!<br>
 Time to explore the city. We'll start off with a bang!<br> 
-- Fist stop is Arc de Triomphe followed by a visit to the Eiffel Tower and some champagne! We'll try to catch a light lunch on our walk between the two somewhere in the Trocadera neighbourhood.
-- To get to our next stop of the day we plan to catch the Seine hop-on hop-off ferry. We'll hop off at the [Cathédrale Notre-Dame](https://www.notredamedeparis.fr/en/), unfortunately is still closed so we will not be able to tour it, instead we will view if from outside and the walk over to [Sainte-Chapelle](https://www.sainte-chapelle.fr/en) and [the Conciergerie](https://www.paris-conciergerie.fr/en) for a visit.  
-- To round off the day we'll catch some dinner in the Latin Quarters before heading back to the hotel and som well needed rest. 
+- First stop is Arc de Triomphe followed by a visit to the Eiffel Tower and some champagne! We'll try to catch a light lunch on our walk between the two somewhere in the Trocadera neighbourhood.
+- To get to our next stop of the day we plan to catch the Seine hop-on hop-off ferry. We'll hop off at the [Cathédrale Notre-Dame](https://www.notredamedeparis.fr/en/), unfortunately is still closed so we will not be able to tour it, instead we will view if from outside and then walk over to [Sainte-Chapelle](https://www.sainte-chapelle.fr/en) and [the Conciergerie](https://www.paris-conciergerie.fr/en) for a visit.  
+- To round off the day we'll catch some dinner in the Latin Quarters before heading back to the hotel and some well needed rest. 
 
 </div>
 
@@ -67,7 +67,7 @@ And, we'll end the day with a belated birthday celebration at [Table by Bruno Ve
 ## Wednesday, October 16, 2024
 ### Paris
 
-There's a huge chance that we will be sleeping in today. The only fixed item on the itinerary is a visit to [The Louvre](https://www.louvre.fr/en) a 2:30pm.<br>
+There's a huge chance that we will be sleeping in today. The only fixed item on the itinerary is a visit to [The Louvre](https://www.louvre.fr/en) at 2:30pm.<br>
 Depending on when we leave the hotel we have the following options before lunch. 
 - Visit [Panthéon](https://www.paris-pantheon.fr/en) followed by   
 - Check out the gardens at [Jardin du Luxembourg](https://parisjetaime.com/eng/culture/jardin-du-luxembourg-p1063)
@@ -175,7 +175,7 @@ For the late afternoon we'll take a stroll in [Parc de la Tête d'or](https://en
 ### Lyon to Avignon
 
 We are continuing south, today we will reach Avignon.<br>
-There's no Passion Monements on the way but we are passing by the [European Fighter Aviation Museum of Montélimar](https://www.meacmtl.com/). We might make a stop if we are in the mood or we might jsut continue to our Avignon.<br>
+There's no Passion Monements on the way but we are passing by the [European Fighter Aviation Museum of Montélimar](https://www.meacmtl.com/). We might make a stop if we are in the mood or we might just continue to  Avignon.<br>
 Once we reach Avignon the plan is to check out [Palais des papes](https://palais-des-papes.com/en/) and surrounding area followed by dinner at the hotel. 
 
 - Hotel: [Auberge De Cassagne Spa](https://www.aubergedecassagne.com/en/)
@@ -191,7 +191,7 @@ Once we reach Avignon the plan is to check out [Palais des papes](https://palais
  
 ### Châteauneuf-du-Pape
 
-Today we'll go on our second wine tour, this time we'll head to Châteauneuf-du-Pape for a full day of wine tasting! 
+Today we'll go on our second wine tour, this time we'll head to Châteauneuf-du-Pape for a full day of wine tasting! Cheers!
 </div>
 
 <!-- Wednesday, October 23, 2024 -->
@@ -258,8 +258,8 @@ After reaching our hotel the plan is to explore the city by foot and stop by the
  
 ### Aix-en-Provence
 
-Today we have booked a lunch time [Food tour](https://www.viator.com/tours/Aix-en-Provence/Walking-Food-Tour-in-Aix-en-Provence/d5228-188552P7).<br>
-In the afternoon we'll continue to explore the city with a visit to [Vendôme Pavilion](https://travel.usnews.com/Aix_en_Provence_France/Things_To_Do/Pavilion_de_Vendome_62901/) and maybe soime art at [Caumont Art Centre](https://www.caumont-centredart.com/en).   
+Today we have booked a lunch time [Food tour.](https://www.viator.com/tours/Aix-en-Provence/Walking-Food-Tour-in-Aix-en-Provence/d5228-188552P7)<br>
+In the afternoon we'll continue to explore the city with a visit to [Vendôme Pavilion](https://travel.usnews.com/Aix_en_Provence_France/Things_To_Do/Pavilion_de_Vendome_62901/) and maybe some art at [Caumont Art Centre](https://www.caumont-centredart.com/en).   
 
 
 
@@ -278,9 +278,9 @@ In the afternoon we'll continue to explore the city with a visit to [Vendôme Pa
 ### Ocean time!
 
 Today we will finally reach the Mediterranean.<br>
-We'll drive along the coast as much as possible stopping in small villages and beaches aling the way. 
+We'll drive along the coast as much as possible stopping in small villages and beaches along the way. 
 - Hotel: [Lily of The Valley](https://www.lilyofthevalley.com/)
-  - Oct 27 - Apr 29
+  - Oct 27-29
 
 </div>
 
@@ -292,7 +292,7 @@ We'll drive along the coast as much as possible stopping in small villages and b
  
 ### St Tropez
 
-The plan for today is to explore St Tropez with alls it'sshops, art galleries, and historic sites either on foot or by bike. 
+The plan for today is to explore St Tropez with all it's shops, art galleries, and historic sites, either on foot or by bike. 
 
 
 </div>
@@ -332,20 +332,24 @@ We'll spend the afternoon/eveing exploring the city, most likely we'll visit the
  
 ### Monaco
 
-Our plan for today is to visit Monaco over the day. Details still to be nailed down. 
+We'll spend the day in Monaco, we are planning to catch the train which is supposed to take about 25 minutes.<br>
+Once in Monaco we will of course check out the Casino de Monte-Carlo (else you have not been to Monaco!). Other than the casino, we plan to take a stroll through the city & the waterfront, we'll find some lunch along the way, we'll pass by the Grand prix track Hairpin bend and we'll make sure to check out the Musée Océanographique de Monaco, the building is said to be breathtaking! If we have time left we'll also visit Princess Grace Japanese Garden before taking the train back to Nice again.
+
 
 </div>
 
 
 <!-- Thursday, October 31, 2024 -->
-<div style="float:none;min-height:350px">
+<div style="float:none;min-height:150px">
 
 ## Thursday, October 31, 2024
 
 
+
 ### Nice
 
-Exploring Nice
+Final day in France and we'll explore Nice, pack our bags and fill up on wine. We'll check out the Hilltop park Colline du Château, maybe a visit to Musée Masséna and why not a stroll along Promenade des Anglais.
+
 </div>
 
 <!-- Friday, November 1, 2024 -->
@@ -356,7 +360,7 @@ Exploring Nice
  
 ### Time to return home!
 
-Our time in France has come to an end, atleast for this time. Our flight leaves from the Nice airport around noon so no time for anything else than travel today.  
+Our time in France has come to an end, at least for this time. Our flight leaves from the Nice airport around noon so no time for anything else than travel today.  
 
 
 </div>
