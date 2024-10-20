@@ -27,7 +27,7 @@ date: 2024-09-17T14:23:00-04:00
 |[Intercontinental Lyon](https://www.ihg.com/intercontinental/hotels/us/en/lyon/lysha/hoteldetail)|Sat, Oct 19, 2024| Mon, Oct 21, 2024|20 Quai Jules Courmont, Lyon 69002, FR|+33-4-26992323|
 |[Auberge De Cassagne Spa](https://www.aubergedecassagne.com/en/)|Mon, Oct 21, 2024|Wed, Oct 23, 2024|450 Allee De Cassagne, Le Pontet - Avignon 84130, FR|+33-4-90310418|
 |[Arielles Gordes La Bastides](https://airelles.com/en/destination/gordes-hotel)|Wed, Oct 23, 2024|Fri, Oct 25, 2024|61 Rue De La Combe, Gordes 84220, FR|+33-4-90721212|
-|[Le Pigonnet](https://www.esprit-de-france.com/en/hotels/hotel-le-pigonnet)|Fri, Oct 25, 2024|Sun, Oct 27, 2024|5 avenue du Pigonnet, Aix-en-Provence 13090, FR|+33-4-42596107|
+|[Villa Saint Ange](https://villasaintange.com/en/)|Fri, Oct 25, 2024|Sun, Oct 27, 2024|5 traverse Saint-Pierre, Aix-en-Provence 13100,FR|+33-4-42951010|
 |[Lily of The Valley](https://www.lilyofthevalley.com/)|Sun, Oct 27, 2024|Tue, Oct 29, 2024|72 Boulevard Abel Faivre, Colline Saint-michel, La Croix Valmer 83420, FR|+33-4-22732200|
 |[Le Perouse](https://www.hotel-la-perouse.com/en/)|Tue, Oct 29, 2024|Fri, Nov 1, 2024|11 Quai Rauba Capeu., Nice 06300, FR|+33-4-93623463|
 </div>

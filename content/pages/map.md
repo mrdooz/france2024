@@ -243,7 +243,7 @@ If we are in the right mood we might drive south to the Alpilles Natural Park fo
 We continue south, our next stop is Aix-en-Provence.<br>
 After reaching our hotel the plan is to explore the city by foot and stop by the Saint-Sauveur Cathedral and the Town Hall. For dinner we plan to find one of the many farm to table restaurants. 
 
-- Hotel: [Le Pigonnet](https://www.esprit-de-france.com/en/hotels/hotel-le-pigonnet)
+- Hotel: [Villa Saint Ange](https://villasaintange.com/en/)
   - Oct 25-27
 
 </div>
