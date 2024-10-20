@@ -4,7 +4,7 @@ date: 2024-10-19T16:44:46+02:00
 noshowdate: true
 summary: "More than just mustard"
 tags: ["post"]
-images: ["/posts/10162024/o1.jpg"]
+images: ["/posts/10182024/bussy3.jpg"]
 ---
 
 
