@@ -4,7 +4,7 @@ date: 2024-10-17T20:38:46+02:00
 noshowdate: true
 summary: "Final day in Paris, but we will return!"
 tags: ["post"]
-images: ["/posts/10162024/o1.jpg"]
+images: ["/posts/10172024/v1.jpg"]
 ---
 
 ## Bonjour!
