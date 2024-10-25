@@ -4,7 +4,7 @@ date: 2024-10-25T22:09:46+02:00
 noshowdate: true
 summary: "French countryside"
 tags: ["post"]
-images: ["/posts/10242024/d4.jpg"]
+images: ["/posts/10252024/drive1.jpg"]
 ---
 
 
