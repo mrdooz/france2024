@@ -329,13 +329,10 @@ We'll spend the afternoon/eveing exploring the city, most likely we'll visit the
   <img class="picture-float" src="../oct30.jpg" alt="Route of the day" style="height:120px">
 </a>
 
+### Nice
+
+We'll spend the day exploring Nice, pack our bags and fill up on wine. We'll check out the Hilltop park Colline du Château, maybe a visit to Musée Masséna and why not a stroll along Promenade des Anglais.
  
-### Monaco
-
-We'll spend the day in Monaco, we are planning to catch the train which is supposed to take about 25 minutes.<br>
-Once in Monaco we will of course check out the Casino de Monte-Carlo (else you have not been to Monaco!). Other than the casino, we plan to take a stroll through the city & the waterfront, we'll find some lunch along the way, we'll pass by the Grand prix track Hairpin bend and we'll make sure to check out the Musée Océanographique de Monaco, the building is said to be breathtaking! If we have time left we'll also visit Princess Grace Japanese Garden before taking the train back to Nice again.
-
-
 </div>
 
 
@@ -344,11 +341,10 @@ Once in Monaco we will of course check out the Casino de Monte-Carlo (else you h
 
 ## Thursday, October 31, 2024
 
+### Monaco
 
-
-### Nice
-
-Final day in France and we'll explore Nice, pack our bags and fill up on wine. We'll check out the Hilltop park Colline du Château, maybe a visit to Musée Masséna and why not a stroll along Promenade des Anglais.
+Finaly day of this trip. We'll spend the day in Monaco, we are planning to catch the train which is supposed to take about 25 minutes.<br>
+Once in Monaco we will of course check out the Casino de Monte-Carlo (else you have not been to Monaco!). Other than the casino, we plan to take a stroll through the city & the waterfront, we'll find some lunch along the way, we'll pass by the Grand prix track Hairpin bend and we'll make sure to check out the Musée Océanographique de Monaco, the building is said to be breathtaking! If we have time left we'll also visit Princess Grace Japanese Garden before taking the train back to Nice again.
 
 </div>
 
