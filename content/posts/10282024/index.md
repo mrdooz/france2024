@@ -4,7 +4,7 @@ date: 2024-10-28T18:01:46+02:00
 noshowdate: true
 summary: "Sun, sun and beautiful views"
 tags: ["post"]
-images: ["/posts/10272024/drive.jpg"]
+images: ["/posts/10282024/lh1.jpg"]
 ---
 
 
