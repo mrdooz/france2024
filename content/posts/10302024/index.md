@@ -4,7 +4,7 @@ date: 2024-10-30T23:01:46+02:00
 noshowdate: true
 summary: "Full day of city life"
 tags: ["post"]
-images: ["/posts/10302024/lh1.jpg"]
+images: ["/posts/10302024/n0.jpg"]
 ---
 
 
