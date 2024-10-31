@@ -12,7 +12,7 @@ images: ["/posts/10292024/d4.jpg"]
 
 <div style="display:flex; justify-content: center">
 <div style="flex-basis: 97%">
-After yet another wounderful breakfast it was time to drive to our final hotel, La Perouse in Nice. As usual we were avoiding the highways and followed the sea as much as we could so it basically took the whole day to get there.<br>
+After yet another wonderful breakfast it was time to drive to our final hotel, La Perouse in Nice. As usual we were avoiding the highways and followed the sea as much as we could so it basically took the whole day to get there.<br>
 We stopped alot along the way and ejoyed the views but it was hard to find a restaurant open for lunch. We finally found some open places in Théoule-sur-Mer and found a really good small restaurant on a side street. 
 </div>
 </div>
